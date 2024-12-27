@@ -39,4 +39,4 @@ edit ```commands.py``` file inside ```/src/api``` folder. Edit line 32 function 
 
 ### Contributors
 
-[](https://github.com/monicasolines)
+[monica Solines](https://github.com/monicasolines)
