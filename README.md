@@ -1,4 +1,6 @@
-
+---
+title: "**Expense Vue**"
+---
 
 | Engine    | DATABASE_URL                                        |
 | --------- | --------------------------------------------------- |
@@ -38,5 +40,7 @@ edit ```commands.py``` file inside ```/src/api``` folder. Edit line 32 function 
 
 
 ### Contributors
-
-[monica Solines](https://github.com/monicasolines)
+[Danny Valdivia](https://github.com/dluisvaldivia)
+[Monica Solines](https://github.com/monicasolines)
+[Ana Paez](https://github.com/AnaPaez89)
+[Joni Santos](https://github.com/JoniXSantos)
