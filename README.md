@@ -1,5 +1,4 @@
-
-title: "**Expense Vue**"
+### Expense Vue
 
 
 | Engine    | DATABASE_URL                                        |
