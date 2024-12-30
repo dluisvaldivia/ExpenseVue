@@ -1,4 +1,8 @@
+<img src="https://i.imgur.com/DQDM4Sx.png" alt="Image" width="80"/>
+
 # Expense Vue
+
+
 Your financial management companion!
 
 ExpenseVue is a simple and intuitive platform that allows users to track their income and expenses, create personalized budgets, and monitor their financial health—all in one place.
@@ -27,6 +31,18 @@ ExpenseVue is a simple and intuitive platform that allows users to track their i
 ### State & Data Management
 - **Flux**: Global state management.
 - **Custom APIs**: Handling transactions, budgets, and expenses securely.
+---
+### Profile edit
+
+![ProfileEdit](https://i.imgur.com/jp0Fu8d.gif)
+
+### Bank connection
+
+![BankConnection](https://i.imgur.com/JTkvA4U.gif)
+
+### Source selection
+
+![SourceSelect](https://i.imgur.com/u20MqkH.gif)
 
 ---
 ### Backend Populate Table Users
