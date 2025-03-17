@@ -31,6 +31,7 @@ ExpenseVue is a simple and intuitive platform that allows users to track their i
 ### State & Data Management
 - **Flux**: Global state management.
 - **Custom APIs**: Handling transactions, budgets, and expenses securely.
+- **OAuth + JWT**: Industry standard security and authentication
 ---
 ### General view
 
